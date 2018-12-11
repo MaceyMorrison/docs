@@ -1,13 +1,20 @@
-Overview of Vetirone Developer Application 
+Overview of Veritone Developer Application
 
 Developers Role in aiWARE
-<Marketing stuff> 
+<Marketing stuff>
 
-Roadmap 
+Roadmap
 <as a development platform and market>
 
-Engine Developers
-<describe tools and opportunities >
+# Engine Developers
+## Tools
+- Training Data
+  - Engine developers have access to collections of data entities grouped as libraries. Developers can also upload additional data entities and create their own libraries.
+## Opportunities
+ - Monetization
+   - Receive payment upfront for use of your engines.
+ - Competitive Positioning
+   - Discover ways to differentiate your offering through feature and capability comparisons.
 
 Application Developers
 
