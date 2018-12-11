@@ -1,28 +1,68 @@
-Overview of VDA 
+#Veritone Developer Overview 
 
-Developers Role in aiWARE
+##Developers Role in aiWARE
 <Marketing stuff> 
 
-Roadmap 
-<as a development platform and market>
+##What are your objectives?
 
-Engine Developers
-<describe tools and opportunities >
+###Build an AI-powered application
+* <describe the objective>
+* Leverage
+    * Open flexible API
+        * <link to section in “features and tools”>
 
-Application Developers
-<describe tools and opportunities>
+###Distribute your applications
+* <describe the objective>
+* Leverage 
+    * App Packages
+        * <link to section in “features and tools”>
 
-App Packages
-<describe tools and opportunities>
+###Implement AI functionality with No-Code 
+* <describe the objective>
+* Leverage 
+    * Workflow
+        * <link to section in “features and tools”>
 
-IT Professionals
-Workflow
-<describe tools and opportunities>
+###Onboard a cognitive engine
+* <describe the objective>
+* Leverage 
+    * Easy Engine Onboarding
+        * <link to section in “features and tools”>
 
-Data Scientists
-Virtuous Cycle
-<describe tools and opportunities>
-Datasets
-<describe tools and opportunities>
-Benchmarking
-<describe tools and opportunities>
+###Train a cognitive model
+* <describe the objective>
+* Leverage 
+    * Datasets
+        * <link to section in “features and tools”>
+
+###Benchmark a cognitive engine
+* <describe the objective>
+* Leverage 
+    * The Virtuous Cycle
+        * <link to section in “features and tools”>
+
+##Features And Tools
+
+###Open Flexible API
+* <describe knowledge/experience levels recommended, briefly describe feature and its capabilites>
+* <link to section>
+
+###App Packages
+* <describe knowledge/experience levels recommended, briefly describe feature and its capabilites>
+* <link to section>
+
+###Workflow
+* <describe knowledge/experience levels recommended, briefly describe feature and its capabilites>
+* <link to section>
+
+###Easy Engine Onboarding
+* <describe knowledge/experience levels recommended, briefly describe feature and its capabilites>
+* <link to section>
+
+###Datasets
+* <describe knowledge/experience levels recommended, briefly describe feature and its capabilites>
+* <link to section>
+
+###Virtuous Cycle
+* <describe knowledge/experience levels recommended, briefly describe feature and its capabilites>
+* <link to section>
